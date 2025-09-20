@@ -5,8 +5,8 @@ Built a small-scale cybersecurity lab simulating a business network to enable ha
 ## Implementation:
 - Built a cybersecurity lab with Active Directory domain controllers, servers, and Windows/Linux workstations.
 - Configured VMs (VirtualBox/VMware) with NAT networking and enterprise-style IPs.
-- Set up the network with SIEM functionality, EDR, and vulnerability scanning.
 - Deployed Windows Server 2025, Windows 11, Ubuntu Desktop/Server, integrating Wazuh, Security Onion, Postfix and MailHog.
+- Set up the network with SIEM functionality, EDR, and vulnerability scanning.
 - Documented setup with screenshots and configuration examples for reproducibility.
 
 ## Architecture:
