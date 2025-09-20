@@ -5,8 +5,7 @@ Built a small-scale cybersecurity lab simulating a business network to enable ha
 ## Implementation:
 - Built a cybersecurity lab with Active Directory domain controllers, servers, and Windows/Linux workstations.
 - Configured VMs (VirtualBox/VMware) with NAT networking and enterprise-style IPs.
-- Deployed Windows Server 2025, Windows 11, Ubuntu Desktop/Server, integrating Wazuh, Security Onion, and MailHog.
-- Set up Kali Linux tools and exercise files for controlled attack/detection simulations.
+- Deployed Windows Server 2025, Windows 11, Ubuntu Desktop/Server, integrating Wazuh, Security Onion, Postfix and MailHog.
 - Documented setup with screenshots and configuration examples for reproducibility.
 
 ## Architecture:
@@ -26,7 +25,6 @@ Built a small-scale cybersecurity lab simulating a business network to enable ha
 - Windows 11 Enterprise: https://www.microsoft.com/en-us/evalcenter/evaluate-windows-11-enterprise
 - Ubuntu Desktop 22.04.5 LTS: https://releases.ubuntu.com/jammy/ubuntu-22.04.5-desktop-amd64.iso
 - Ubuntu Server 22.04.5 LTS: https://releases.ubuntu.com/jammy/ubuntu-22.04.5-server-amd64.iso
-- Kali Linux 2024.4: https://old.kali.org/base-images/kali-2024.4/kali-linux-2024.4-installer-amd64.iso
 - Security Onion: https://github.com/Security-Onion-Solutions/securityonion/releases
 
 ### Security & Monitoring Tools:
@@ -42,7 +40,7 @@ Here is the link: [Insert PDF Link Here]
 
 - Developed by Nathan Sinclair, inspired by Grant Collins’ Build a Cybersecurity Homelab: Enterprise 101 (https://projectsecurity.teachable.com/p/build-a-cybersecurity-homelab-a-practical-guide-to-offense-defense-enterprise-101)
 
-- Tools used include Wazuh, Security Onion, MailHog, Kali Linux, VirtualBox, VMware, and Windows/Ubuntu OSs. 
+- Tools used include Wazuh, Security Onion, MailHog, Postfix, VirtualBox, VMware, and Windows/Ubuntu OSs. 
 
 - Documentation and content suggestions assisted by ChatGPT and other large language models (LLMs), with thanks to the open-source communities behind the tools. 
 
