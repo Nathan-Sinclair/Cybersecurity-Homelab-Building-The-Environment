@@ -11,6 +11,7 @@ Built a small-scale cybersecurity lab simulating a business network to enable ha
 
 ## Architecture:
 <img width="1081" height="750" alt="image" src="https://github.com/user-attachments/assets/051c2386-673c-4604-8c38-a53864dbe2cc" />
+### Summary:
 
 ## Prerequisites & Dependencies:
 ### Hardware:
