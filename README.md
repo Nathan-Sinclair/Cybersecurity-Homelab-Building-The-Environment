@@ -54,7 +54,7 @@ Here is the link: [Insert PDF Link Here]
 
 ## Credits:
 
-- Developed by Nathan Sinclair, inspired by Grant Collins’ Build a Cybersecurity Homelab: Enterprise 101 (https://projectsecurity.teachable.com/p/build-a-cybersecurity-homelab-a-practical-guide-to-offense-defense-enterprise-101)
+- Developed by Nathan Sinclair, inspired by Grant Collins’ Build a Cybersecurity Homelab: Enterprise 101 (https://projectsecurity.teachable.com/p/build-a-cybersecurity-homelab-a-practical-guide-to-offense-defense-enterprise-101). Special thanks to Grant Collins for creating such a valuable learning resource. 
 
 - Tools used include Wazuh, Security Onion, MailHog, Postfix, VirtualBox, VMware, and Windows/Ubuntu OSs. 
 
