@@ -10,6 +10,16 @@ Built a small-scale cybersecurity lab simulating a business network to enable ha
 - Documented setup with screenshots and configuration examples for reproducibility.
 
 ## Skills Demonstrated:
+- **Virtualization & Lab Setup**: Configured multiple VMs in VirtualBox/VMware with NAT networking, snapshots, and cloning.  
+- **OS Administration**: Installed and managed Windows Server 2025, Windows 11, and Ubuntu 22.04 LTS.  
+- **Active Directory & Identity Management**: Managed users, groups, SSO, and domain-joined workstations.  
+- **Network & Security Configuration**: Assigned static IPs, configured jumpboxes, and implemented SIEM/EDR with Wazuh.  
+- **Containerization & Services**: Deployed Docker containers (MailHog) and used Docker Compose for repeatable setups.  
+- **Email Simulation & Automation**: Set up MailHog SMTP, sent test emails via Python, and created email polling scripts.  
+- **Log & Threat Monitoring**: Collected and analyzed logs from Windows and Linux endpoints for intrusion detection.  
+- **Scripting & Automation**: Wrote Bash and Python scripts to automate lab tasks and monitoring.  
+- **Documentation & Reproducibility**: Produced step-by-step guides with screenshots for lab replication.  
+- **Problem Solving**: Troubleshot VM networking, agent deployment, container setup, and domain integration issues.  
 
 ## Architecture:
 <img width="1081" height="750" alt="image" src="https://github.com/user-attachments/assets/051c2386-673c-4604-8c38-a53864dbe2cc" />
