@@ -9,10 +9,23 @@ Built a small-scale cybersecurity lab simulating a business network to enable ha
 - Set up the network with SIEM functionality, EDR, and vulnerability scanning.
 - Documented setup with screenshots and configuration examples for reproducibility.
 
+## Skills Demonstrated:
+
 ## Architecture:
 <img width="1081" height="750" alt="image" src="https://github.com/user-attachments/assets/051c2386-673c-4604-8c38-a53864dbe2cc" />
 
 ### Summary:
+| Element                  | Purpose                                                                 |
+|---------------------------|-------------------------------------------------------------------------|
+| Hypervisor               | Runs and manages multiple virtual machines on the host.                 |
+| Enterprise Workstation 1 | Simulates a Windows 11 employee workstation.                            |
+| Enterprise Workstation 2 | Simulates a Linux workstation, e.g. developer environment.               |
+| Security Workstation     | Used for monitoring and analyzing attacks with Security Onion.           |
+| Security Server 1        | Provides isolated email environment with MailHog for phishing exercises.|
+| Security Server 2        | Acts as central SIEM/EDR server with Wazuh for log collection/analysis. |
+| Directory Services Server| Provides Active Directory, DNS, DHCP, and SSO for identity management.   |
+
+
 
 ## Prerequisites & Dependencies:
 ### Hardware:
