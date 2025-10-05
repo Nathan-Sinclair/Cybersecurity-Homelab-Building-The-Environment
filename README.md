@@ -17,7 +17,7 @@ Built a small-scale cybersecurity lab simulating a business network to enable ha
 ### Summary:
 | Element                  | Purpose                                                                 |
 |---------------------------|-------------------------------------------------------------------------|
-| Hypervisor               | Runs and manages multiple virtual machines on the host.                 |
+| Hypervisor (VirtualBox)  | Runs and manages multiple virtual machines on the Windows host.          |
 | Enterprise Workstation 1 | Simulates a Windows 11 employee workstation.                            |
 | Enterprise Workstation 2 | Simulates a Linux workstation, e.g. developer environment.               |
 | Security Workstation     | Used for monitoring and analyzing attacks with Security Onion.           |
