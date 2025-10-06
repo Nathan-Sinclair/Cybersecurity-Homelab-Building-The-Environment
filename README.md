@@ -61,8 +61,8 @@ Built a small-scale cybersecurity lab simulating a business network to enable ha
 
 ## Documentation/Step By Step Guide:
 
-Full step-by-step setup and configuration instructions are provided in the accompanying PDF file.
-Here is the link: [Insert PDF Link Here] 
+Full step-by-step setup and configuration instructions are provided in the accompanying PDF file.  
+Here is the link: (Cybersecurity-Homelab-Building-The-Environment%20Documentation.pdf)
 
 ## Credits:
 
