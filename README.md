@@ -1,6 +1,10 @@
 # Cybersecurity-Homelab-Building-The-Environment
 ## Purpose:
-Built a small-scale cybersecurity lab simulating a business network to enable hands-on testing, SIEM configuration, and attack/defense simulations, serving as the foundation for follow-up projects.  
+Built a small-scale cybersecurity lab simulating a business network to enable hands-on testing, SIEM configuration, and attack/defense simulations, serving as the foundation for follow-up projects
+Overall Project Structure:
+1. Cybersecurity Homelab: Building the Environment – Deploy and configure the base lab environment with Active Directory, Windows and Linux workstations, servers, and network topology.
+2. Cybersecurity Homelab: SIEM & Detection Setup – Configure Wazuh SIEM, endpoint monitoring, alerts, and log collection for SSH failures, WinRM logins, and sensitive file access.
+3. Cybersecurity Homelab: Vulnerability & Attack Simulation – Simulate attacks, exploit vulnerabilities, and validate SIEM and detection capabilities in the lab environment.
 
 ## Implementation:
 - Built a cybersecurity lab with Active Directory domain controller, servers, and Windows/Linux workstations.
@@ -62,7 +66,7 @@ Built a small-scale cybersecurity lab simulating a business network to enable ha
 ## Documentation/Step By Step Guide:
 
 Full step-by-step setup and configuration instructions are provided in the accompanying PDF file.  
-Here is the link: [Cybersecurity Homelab Documentation](Cybersecurity-Homelab-Building-The-Environment%20Documentation.pdf)
+[Here is the link](Cybersecurity-Homelab-Building-The-Environment%20Documentation.pdf)
 
 ## Credits:
 
