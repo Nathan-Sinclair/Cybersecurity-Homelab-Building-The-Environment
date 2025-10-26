@@ -66,13 +66,13 @@ Overall Project Structure:
 ## Documentation/Step By Step Guide:
 
 Full step-by-step setup and configuration instructions are provided in the accompanying PDF file.  
-[Here is the link](Cybersecurity-Homelab-Building-The-Environment%20Documentation.pdf)
+[Here Is The Link](Cybersecurity-Homelab-Building-The-Environment%20Documentation.pdf)
 
 ## Credits:
 
 - Developed by Nathan Sinclair, inspired by Grant Collins’ Build a Cybersecurity Homelab: Enterprise 101 (https://projectsecurity.teachable.com/p/build-a-cybersecurity-homelab-a-practical-guide-to-offense-defense-enterprise-101). Special thanks to Grant Collins for creating such a valuable learning resource. 
 
-- Tools used include Wazuh, Security Onion, MailHog, Postfix, VirtualBox, VMware, and Windows/Ubuntu OSs. 
+- Tools used include Wazuh, Security Onion, MailHog, VirtualBox, VMware, and Windows/Ubuntu OSs. 
 
 - Documentation and content suggestions assisted by ChatGPT and other large language models (LLMs), with thanks to the open-source communities behind the tools. 
 
