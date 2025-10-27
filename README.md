@@ -3,8 +3,8 @@
 Built a small-scale cybersecurity lab simulating a business network to enable hands-on testing, SIEM configuration, and attack/defense simulations, serving as the foundation for follow-up projects
 Overall Project Structure:
 1. Cybersecurity Homelab: Building the Environment (what is covered in this repo) – Deploy and configure the base lab environment with Active Directory, Windows and Linux workstations, servers, and network topology.
-2. Cybersecurity Homelab: SIEM & Detection Setup (covered in future repo) – Configure Wazuh SIEM, endpoint monitoring, alerts, and log collection for SSH failures, WinRM logins, and sensitive file access.
-3. Cybersecurity Homelab: Vulnerability & Attack Simulation (covered in future repo) – Simulate attacks, exploit vulnerabilities, and validate SIEM and detection capabilities in the lab environment.
+2. Cybersecurity Homelab: SIEM & Detection Setup (covered in future repo) – Configure a Wazuh SIEM with endpoint monitoring, simulate intentional vulnerabilities, and implement log collection for SSH failures, WinRM logins, and sensitive file access events.
+3. Cybersecurity Homelab: Attack Simulation (covered in future repo) – Simulate attacks, exploit vulnerabilities, and validate SIEM and detection capabilities in the lab environment.
 
 ## Implementation:
 - Built a cybersecurity lab with Active Directory domain controller, servers, and Windows/Linux workstations.
