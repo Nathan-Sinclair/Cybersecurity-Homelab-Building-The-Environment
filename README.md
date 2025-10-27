@@ -13,6 +13,10 @@ Overall Project Structure:
 - Set up the network with SIEM functionality, EDR, and vulnerability scanning.
 - Documented setup with screenshots and configuration examples for reproducibility.
 
+## Documentation/Step By Step Guide:
+Full step-by-step setup and configuration instructions are provided in the accompanying PDF file.  
+[Here Is The Link](Cybersecurity-Homelab-Building-The-Environment%20Documentation.pdf)
+
 ## Skills Demonstrated:
 - **Virtualization & Lab Setup**: Configured multiple VMs in VirtualBox/VMware with NAT networking, snapshots, and cloning.  
 - **OS Administration**: Installed and managed Windows Server 2025, Windows 11, and Ubuntu 22.04 LTS.  
@@ -62,11 +66,6 @@ Overall Project Structure:
 ### Security & Monitoring Tools:
 - Wazuh (SIEM): https://wazuh.com/download/
 - MailHog: https://sourceforge.net/projects/mailhog.mirror/files/v1.0.0/MailHog_windows_amd64.exe/
-
-## Documentation/Step By Step Guide:
-
-Full step-by-step setup and configuration instructions are provided in the accompanying PDF file.  
-[Here Is The Link](Cybersecurity-Homelab-Building-The-Environment%20Documentation.pdf)
 
 ## Credits:
 
